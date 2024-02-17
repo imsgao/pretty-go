@@ -1,7 +1,7 @@
 package prettygo
 
 import (
-	"github.com/vmihailenco/msgpack"
+	"github.com/vmihailenco/msgpack/v5"
 )
 
 type MsgPackCoding struct {
